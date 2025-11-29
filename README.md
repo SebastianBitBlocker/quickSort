@@ -12,13 +12,13 @@ Contains a QT project for a Windows standalone app for viasualization of the Qui
 
 ### Generate random array
 
-![initial](./images/initial.PNG)
+![initial](./images/initial.png)
 
 Given the desired length of the array click on Generate to create a random array, the values are visualized in the below plot.
 
 ### Quick Sorting
 
-![Sorted](./images/sorted.PNG)
+![Sorted](./images/sorted.png)
 
 The random array is then sorted, an animation for the algorithm is shown.
 

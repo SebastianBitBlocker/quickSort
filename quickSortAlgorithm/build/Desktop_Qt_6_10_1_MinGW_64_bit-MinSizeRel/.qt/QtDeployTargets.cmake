@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appquickSortAlgorithm_FILE C:/Users/natas/OneDrive/Dokumenti/ProjectsSebastian/quickSortGIT/quickSortAlgorithm/build/Desktop_Qt_6_10_1_MinGW_64_bit-MinSizeRel/appquickSortAlgorithm.exe)
+set(__QT_DEPLOY_TARGET_appquickSortAlgorithm_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appquickSortAlgorithm_RUNTIME_DLLS C:/Qt/6.10.1/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6Network.dll;C:/Qt/6.10.1/mingw_64/bin/Qt6Core.dll)

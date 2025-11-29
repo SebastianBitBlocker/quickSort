@@ -6,4 +6,20 @@ Contains a QT project for a Windows standalone app for viasualization of the Qui
 - Download the repository 
 - Extract all files
 - Open the directory `..\quickSortAlgorithm\build\Desktop_Qt_6_10_1_MinGW_64_bit-MinSizeRel`
-- Excecute `appquickSortAlgorithm`
+- Execute `appquickSortAlgorithm.exe`
+
+## GUI Guide
+
+### Generate random array
+
+![initial](./images/initial.PNG)
+
+Given the desired length of the array click on Generate to create a random array, the values are visualized in the below plot.
+
+### Quick Sorting
+
+![Sorted](./images/sorted.PNG)
+
+The random array is then sorted, an animation for the algorithm is shown.
+
+

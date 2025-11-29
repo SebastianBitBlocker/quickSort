@@ -1,5 +1,5 @@
 # quickSort
-Contains a QT project for a Windows standalone app for viasualization of the Quick Sort Algorithm 
+Contains a QT project for a Windows standalone app for visualization of the Quick Sort Algorithm 
 
 ## Execute standalone version on Windows
 
@@ -20,6 +20,6 @@ Given the desired length of the array click on Generate to create a random array
 
 ![Sorted](./images/sorted.png)
 
-The random array is then sorted, an animation for the algorithm is shown.
+The random array is then sorted, an animation for the algorithm is shown. For the sake of animation, the sort algorithm has a delay between steps.
 
 

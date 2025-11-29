@@ -1,0 +1,6 @@
+module quickSortAlgorithm
+typeinfo appquickSortAlgorithm.qmltypes
+prefer :/qt/qml/quickSortAlgorithm/
+Main 254.0 Main.qml
+depends QtQuick
+

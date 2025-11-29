@@ -1,0 +1,10 @@
+-I
+C:/Users/natas/OneDrive/Dokumenti/ProjectsSebastian/quickSortGIT/quickSortAlgorithm/build/Desktop_Qt_6_10_1_MinGW_64_bit-MinSizeRel
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+C:/Users/natas/OneDrive/Dokumenti/ProjectsSebastian/quickSortGIT/quickSortAlgorithm/build/Desktop_Qt_6_10_1_MinGW_64_bit-MinSizeRel/.qt/rcc/qmake_quickSortAlgorithm.qrc
+--resource
+C:/Users/natas/OneDrive/Dokumenti/ProjectsSebastian/quickSortGIT/quickSortAlgorithm/build/Desktop_Qt_6_10_1_MinGW_64_bit-MinSizeRel/.qt/rcc/appquickSortAlgorithm_raw_qml_0.qrc
+--module
+quickSortAlgorithm
